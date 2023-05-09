@@ -1,0 +1,17 @@
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\bin\Debug\net6.0-windows\TCP_IP Build Client App.exe
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\bin\Debug\net6.0-windows\TCP_IP Build Client App.deps.json
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\bin\Debug\net6.0-windows\TCP_IP Build Client App.runtimeconfig.json
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\bin\Debug\net6.0-windows\TCP_IP Build Client App.dll
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\bin\Debug\net6.0-windows\TCP_IP Build Client App.pdb
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.csproj.AssemblyReference.cache
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP_Build_Client_App.Form1.resources
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.csproj.GenerateResource.cache
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.AssemblyInfoInputs.cache
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.AssemblyInfo.cs
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.csproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.dll
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\refint\TCP_IP Build Client App.dll
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.pdb
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\TCP_IP Build Client App.genruntimeconfig.cache
+C:\Users\Nico\OneDrive\Documents\Messaging App Demo\YT messaging app TCP_IP build\TCP_IP Build Client App\obj\Debug\net6.0-windows\ref\TCP_IP Build Client App.dll
