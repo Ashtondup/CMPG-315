@@ -109,17 +109,17 @@ namespace TCP_IP_Build_Client_App
 
         public static void ControlInvoke(Control control, Action function)
         {
-
-            if (control.IsDisposed || control.Disposing)
-            {
-                return;
-            }
-            if (control.InvokeRequired)
-            {
-                control.Invoke(new UniversalVoidDelegate(() => ControlInvoke(control, function)));
-                return;
-            }
-            function();
+           
+                if (control.IsDisposed || control.Disposing)
+                {
+                    return;
+                }
+                if (control.InvokeRequired)
+                {
+                    control.Invoke(new UniversalVoidDelegate(() => ControlInvoke(control, function)));
+                    return;
+                }
+                function();
         }
 
 

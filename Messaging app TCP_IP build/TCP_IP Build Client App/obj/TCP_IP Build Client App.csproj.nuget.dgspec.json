@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nico\\OneDrive\\Documents\\Messaging App Demo\\YT messaging app TCP_IP build\\TCP_IP Build Client App\\TCP_IP Build Client App.csproj": {}
+    "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\Messaging app TCP_IP build\\TCP_IP Build Client App\\TCP_IP Build Client App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nico\\OneDrive\\Documents\\Messaging App Demo\\YT messaging app TCP_IP build\\TCP_IP Build Client App\\TCP_IP Build Client App.csproj": {
+    "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\Messaging app TCP_IP build\\TCP_IP Build Client App\\TCP_IP Build Client App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nico\\OneDrive\\Documents\\Messaging App Demo\\YT messaging app TCP_IP build\\TCP_IP Build Client App\\TCP_IP Build Client App.csproj",
+        "projectUniqueName": "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\Messaging app TCP_IP build\\TCP_IP Build Client App\\TCP_IP Build Client App.csproj",
         "projectName": "TCP_IP Build Client App",
-        "projectPath": "C:\\Users\\Nico\\OneDrive\\Documents\\Messaging App Demo\\YT messaging app TCP_IP build\\TCP_IP Build Client App\\TCP_IP Build Client App.csproj",
-        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nico\\OneDrive\\Documents\\Messaging App Demo\\YT messaging app TCP_IP build\\TCP_IP Build Client App\\obj\\",
+        "projectPath": "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\Messaging app TCP_IP build\\TCP_IP Build Client App\\TCP_IP Build Client App.csproj",
+        "packagesPath": "C:\\Users\\ashto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\Messaging app TCP_IP build\\TCP_IP Build Client App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ashto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
