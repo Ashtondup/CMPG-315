@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AX7zdxjBcKjxxtOHIJxo50misTxjoMuHOkD3R0l32VHT2Y49LrMZ2tpY+G+Z3ArVivFDN9rKl1DVD92TY1sVew==",
+  "dgSpecHash": "TtwljJ/NikCTHLPfTimvFwJQrU8t1izSQvbsMCCMktSZ92zb/dKOt2HRM9cayeFfkpjk77jlIKZGwk267FQZsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ashto\\Desktop\\SignalRChat\\SignalRWinformClient\\SignalRWinformClient.csproj",
+  "projectFilePath": "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\SignalRChat\\SignalRWinformClient\\SignalRWinformClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ashto\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.5\\microsoft.aspnetcore.connections.abstractions.7.0.5.nupkg.sha512",
     "C:\\Users\\ashto\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\7.0.5\\microsoft.aspnetcore.http.connections.client.7.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashto\\Desktop\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {}
+    "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashto\\Desktop\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {
+    "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\SignalRChat\\SignalRChat\\SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashto\\Desktop\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+        "projectUniqueName": "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
         "projectName": "SignalRChat",
-        "projectPath": "C:\\Users\\ashto\\Desktop\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+        "projectPath": "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
         "packagesPath": "C:\\Users\\ashto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashto\\Desktop\\SignalRChat\\SignalRChat\\obj\\",
+        "outputPath": "C:\\Users\\ashto\\Desktop\\CMPG\\2023\\315-NETWERKE\\Project\\CMPG-315\\SignalRChat\\SignalRChat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
