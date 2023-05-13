@@ -31,3 +31,14 @@ C:\Users\aceni\Desktop\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Cl
 C:\Users\aceni\Desktop\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.csproj.CoreCompileInputs.cache
 C:\Users\aceni\Desktop\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.exe
 C:\Users\aceni\Desktop\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.pdb
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\bin\Debug\Client Build.exe.config
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\bin\Debug\Client Build.exe
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\bin\Debug\Client Build.pdb
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.csproj.AssemblyReference.cache
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client_Build.Form1.resources
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client_Build.Properties.Resources.resources
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.csproj.GenerateResource.cache
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.csproj.CoreCompileInputs.cache
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.exe
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Client_Build\Client Build\obj\Debug\Client Build.pdb

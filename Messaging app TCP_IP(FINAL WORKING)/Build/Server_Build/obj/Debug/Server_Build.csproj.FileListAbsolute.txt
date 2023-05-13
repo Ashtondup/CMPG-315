@@ -53,3 +53,14 @@ C:\Users\aceni\Desktop\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\ob
 C:\Users\aceni\Desktop\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.csproj.CoreCompileInputs.cache
 C:\Users\aceni\Desktop\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.exe
 C:\Users\aceni\Desktop\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.pdb
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\bin\Debug\Server_Build.exe.config
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\bin\Debug\Server_Build.exe
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\bin\Debug\Server_Build.pdb
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.csproj.AssemblyReference.cache
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.Form1.resources
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.Properties.Resources.resources
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.csproj.GenerateResource.cache
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.csproj.CoreCompileInputs.cache
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.exe
+C:\Users\ashto\Desktop\CMPG\2023\315-NETWERKE\Project\CMPG-315\Messaging app TCP_IP(FINAL WORKING)\Build\Server_Build\obj\Debug\Server_Build.pdb
