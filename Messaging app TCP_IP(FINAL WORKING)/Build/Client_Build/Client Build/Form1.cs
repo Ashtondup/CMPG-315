@@ -18,8 +18,8 @@ namespace Client_Build
 {
     public partial class Form1 : Form
     {
-        private readonly string IP_ADDRESS = "127.0.0.1"; // Change this to the IP address of the server
-        private readonly int PORT = 4444; // Change this to the port of the server
+        private readonly string IP_ADDRESS = "13.50.232.93"; // Change this to the IP address of the server
+        private readonly int PORT = 6969; // Change this to the port of the server
         private TcpClient client;
         private NetworkStream stream;
         private string username;
